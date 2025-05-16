@@ -1,5 +1,5 @@
 import streamlit as st
-from corelogic import BrailleAutocorrect
+from braille import BrailleAutocorrect
 
 # Initialize autocorrect system
 autocorrect = BrailleAutocorrect()
